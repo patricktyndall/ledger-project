@@ -13,7 +13,7 @@ async function batchPromiseRunner(proms, batchSize) {
  */
 async function processPayment({
 	amount,
-	building_id,
+	user_id,
 }) {
 	// this is just a stub
 }
